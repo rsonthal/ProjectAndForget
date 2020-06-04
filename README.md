@@ -1,4 +1,4 @@
-Code for Project and Forget paper: https://arxiv.org/abs/2005.03853
+# Code for Project and Forget paper: https://arxiv.org/abs/2005.03853
 
 Here we have the following files
 
@@ -24,9 +24,6 @@ Inputs:
 
 2) Signed Graphs --- This contains the signed graphs
 
-3) CA-GrQc.lgz, CA-HepTh.lgz, CA-HepPh.lgz, Dmat-Slashdot.jld2, Dmat-Epionions.jld2 ---- these contain some of the inputs in formats that we can directly use. 
+3) CA-GrQc.lgz, CA-HepTh.lgz, CA-HepPh.lgz ---- these contain some of the inputs in formats that we can directly use. (the bigger inputs can be found at the link in the paper)
 
 4) ITML Data -- This folder contains all the data files for ITML experiments. 
-
-Outputs: Due to the size of the output files, we only have some of the outputs from when we ran the metric nearness problem.
-
