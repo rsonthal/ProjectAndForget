@@ -1,8 +1,19 @@
-# Code for Project and Forget paper: https://arxiv.org/abs/2005.03853
+# Code for Project and Forget paper: https://jmlr.org/papers/v23/20-1424.html
+
+Please cite using 
+
+@article{JMLR:v23:20-1424,
+  author  = {Rishi Sonthalia and Anna C. Gilbert},
+  title   = {Project and Forget: Solving Large-Scale Metric Constrained Problems},
+  journal = {Journal of Machine Learning Research},
+  year    = {2022},
+  volume  = {23},
+  number  = {326},
+  pages   = {1--54},
+  url     = {http://jmlr.org/papers/v23/20-1424.html}
+}
 
 Here we have the following files
-
-PDF: 
 
 Notebooks: All code is written in Julia 1.1.0. The include is normally present at the top of each notebook.
 
