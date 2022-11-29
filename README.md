@@ -2,16 +2,18 @@
 
 Please cite using 
 
-@article{JMLR:v23:20-1424,
-  author  = {Rishi Sonthalia and Anna C. Gilbert},
-  title   = {Project and Forget: Solving Large-Scale Metric Constrained Problems},
-  journal = {Journal of Machine Learning Research},
-  year    = {2022},
-  volume  = {23},
-  number  = {326},
-  pages   = {1--54},
-  url     = {http://jmlr.org/papers/v23/20-1424.html}
-}
+
+    @article{JMLR:v23:20-1424,
+      author  = {Rishi Sonthalia and Anna C. Gilbert},
+      title   = {Project and Forget: Solving Large-Scale Metric Constrained Problems},
+      journal = {Journal of Machine Learning Research},
+      year    = {2022},
+      volume  = {23},
+      number  = {326},
+      pages   = {1--54},
+      url     = {http://jmlr.org/papers/v23/20-1424.html}
+    }
+
 
 Here we have the following files
 
